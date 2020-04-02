@@ -21,8 +21,8 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 
 **Weitere Informationen:**
 
-[Repository von Seed Studio](https://github.com/Seeed-Studio/Digital_Infrared_Temperature_Sensor_MLX90615)
+[Repository von Seeed Studio](https://github.com/Seeed-Studio/Digital_Infrared_Temperature_Sensor_MLX90615)
 
-[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-Digital_Infrared_Temperature_Sensor/)
+[Offizielles Wiki von Seeed Studio](http://wiki.seeedstudio.com/Grove-Digital_Infrared_Temperature_Sensor/)
 
 [Materialkoffer von *Make Your School*](makeyourschool.de/material/infrarot-temperatursensor/)
